@@ -1,0 +1,31 @@
+https://www.geeksforgeeks.org/computer-networks/symmetric-key-cryptography/
+
+https://youtu.be/BfP6gejiYbA -> see video examples
+
+https://www.geeksforgeeks.org/engineering-mathematics/groups-discrete-mathematics/
+
+ring,fields in discrete mathematics - ai overview
+
+https://chatgpt.com/share/6a218896-8cc0-8322-8020-7af384499470
+
+https://www.geeksforgeeks.org/computer-networks/data-encryption-standard-des-set-1/
+
+https://www.geeksforgeeks.org/computer-networks/simplified-data-encryption-standard-key-generation/
+https://chatgpt.com/share/6a21b4bb-a0e4-8322-aa6d-e169793b69e9
+
+Eucleadean algo - ai overview
+
+https://gemini.google.com/share/3f38e0ccab61
+
+
+Differenece only>
+https://www.geeksforgeeks.org/computer-networks/differential-and-linear-cryptanalysis/
+
+https://www.geeksforgeeks.org/computer-networks/block-cipher-design-principles/
+https://www.tutorialspoint.com/article/block-cipher-design-principles
+
+https://www.geeksforgeeks.org/computer-networks/advanced-encryption-standard-aes/
+
+https://www.geeksforgeeks.org/computer-networks/rc4-encryption-algorithm/
+https://www.tutorialspoint.com/cryptography/cryptography_rc4_algorithm.htm
+https://www.scribd.com/document/815209848/RC4-Encryption-Algorithm
