@@ -13,5 +13,4 @@ https://www.geeksforgeeks.org/computer-networks/authentication-in-computer-netwo
 https://www.geeksforgeeks.org/computer-networks/kerberos/
 and AI Overview 
 
-https://www.geeksforgeeks.org/computer-networks/x-509-authentication-service/
-and AI Overview 
+x-509 AI Overview 
