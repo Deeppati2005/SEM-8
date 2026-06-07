@@ -5,3 +5,13 @@ https://www.tutorialspoint.com/cryptography/cryptography_sha_algorithm.htm
 https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm
 
 https://www.tutorialspoint.com/article/types-of-authentication-protocols
+
+https://www.geeksforgeeks.org/computer-networks/digital-signature-standard-dss/
+
+https://www.geeksforgeeks.org/computer-networks/authentication-in-computer-network/
+
+https://www.geeksforgeeks.org/computer-networks/kerberos/
+and AI Overview 
+
+https://www.geeksforgeeks.org/computer-networks/x-509-authentication-service/
+and AI Overview 
