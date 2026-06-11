@@ -1,0 +1,13 @@
+https://www.geeksforgeeks.org/computer-networks/pgp-authentication-and-confidentiality/
+
+https://www.geeksforgeeks.org/computer-networks/what-is-s-mime/
+
+https://www.geeksforgeeks.org/computer-networks/ip-security-ipsec/
+
+https://www.geeksforgeeks.org/computer-networks/intruders-in-network-security/
+
+https://www.geeksforgeeks.org/computer-networks/difference-between-virus-worm-and-trojan-horse/
+https://www.geeksforgeeks.org/ethical-hacking/malware-and-its-types/
+
+computer virus- AI OVERVIEW
+Firewall - AI OVERVIEW
