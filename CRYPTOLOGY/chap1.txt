@@ -5,6 +5,7 @@ https://chatgpt.com/share/6a1d1ee5-4c64-8320-b010-661285bb783d
 https://gemini.google.com/share/f337981da2dd
 
 Types of Security Policies - AI OVERVIEW
+https://www.geeksforgeeks.org/cyber-security-policy/
 
 https://www.geeksforgeeks.org/computer-networks/a-model-for-network-security/
 
