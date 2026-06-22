@@ -4,7 +4,7 @@ https://youtu.be/BfP6gejiYbA -> see video examples
 
 https://www.geeksforgeeks.org/engineering-mathematics/groups-discrete-mathematics/
 
-ring,fields in discrete mathematics - ai overview
+https://www.geeksforgeeks.org/engineering-mathematics/group-rings-and-fields-in-group-theory/
 
 https://chatgpt.com/share/6a218896-8cc0-8322-8020-7af384499470
 
@@ -23,6 +23,8 @@ https://www.geeksforgeeks.org/computer-networks/differential-and-linear-cryptana
 
 https://www.geeksforgeeks.org/computer-networks/block-cipher-design-principles/
 https://www.tutorialspoint.com/article/block-cipher-design-principles
+
+https://chatgpt.com/share/6a396551-3b90-83e8-91fd-efcd564ffd5b
 
 https://www.geeksforgeeks.org/computer-networks/advanced-encryption-standard-aes/
 

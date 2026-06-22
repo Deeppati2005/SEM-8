@@ -14,6 +14,7 @@ https://chatgpt.com/share/6a1ee198-e674-8322-b8da-461cba83b499
 Security Mechanisms from publication_10_8615 pdf
 
 https://www.geeksforgeeks.org/computer-networks/osi-security-architecture/
+https://www.naukri.com/code360/library/osi-security-architecture
 
 https://www.geeksforgeeks.org/computer-networks/difference-between-substitution-cipher-technique-and-transposition-cipher-technique/
 
