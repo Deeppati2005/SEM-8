@@ -2,3 +2,4 @@ unit 1 -  Security Mechanisms - page 7
 unit 2- 
 subgroup ,
 https://www.tutorialspoint.com/article/block-cipher-design-principles - Modes of Operation
+DES (Data Encryption Standard) – Working Steps - https://chatgpt.com/share/6a396551-3b90-83e8-91fd-efcd564ffd5b

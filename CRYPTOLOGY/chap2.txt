@@ -13,6 +13,8 @@ https://www.geeksforgeeks.org/computer-networks/data-encryption-standard-des-set
 https://www.geeksforgeeks.org/computer-networks/simplified-data-encryption-standard-key-generation/
 https://chatgpt.com/share/6a21b4bb-a0e4-8322-aa6d-e169793b69e9
 
+https://www.geeksforgeeks.org/computer-networks/triple-des-3des/
+
 Eucleadean algo - ai overview
 
 https://gemini.google.com/share/3f38e0ccab61
@@ -24,7 +26,7 @@ https://www.geeksforgeeks.org/computer-networks/differential-and-linear-cryptana
 https://www.geeksforgeeks.org/computer-networks/block-cipher-design-principles/
 https://www.tutorialspoint.com/article/block-cipher-design-principles
 
-https://chatgpt.com/share/6a396551-3b90-83e8-91fd-efcd564ffd5b
+https://chatgpt.com/share/6a396ce9-eef0-83e8-af1e-9e4ab22221e7
 
 https://www.geeksforgeeks.org/computer-networks/advanced-encryption-standard-aes/
 
