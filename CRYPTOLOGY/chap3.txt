@@ -2,4 +2,7 @@ Fermat Primality Test - AI Overview
 
 https://www.geeksforgeeks.org/maths/chinese-remainder-theorem/
 
+https://www.geeksforgeeks.org/computer-networks/rsa-algorithm-cryptography/
 https://chatgpt.com/share/6a23a714-5804-8322-bb92-7e0e3a6b6ceb
+
+https://www.geeksforgeeks.org/computer-networks/implementation-diffie-hellman-algorithm/
