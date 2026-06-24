@@ -3,6 +3,3 @@ unit 2-
 subgroup ,
 https://www.tutorialspoint.com/article/block-cipher-design-principles - Modes of Operation
 DES (Data Encryption Standard) – Working Steps -
-
-unit 3-
-Discrete algo from copy  
