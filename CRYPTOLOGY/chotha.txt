@@ -3,3 +3,7 @@ unit 2-
 subgroup ,
 https://www.tutorialspoint.com/article/block-cipher-design-principles - Modes of Operation
 DES (Data Encryption Standard) – Working Steps -
+
+unit-5
+Types of Intruders
+https://www.geeksforgeeks.org/computer-networks/intruders-in-network-security/
