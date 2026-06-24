@@ -17,4 +17,5 @@ https://www.geeksforgeeks.org/computer-networks/authentication-in-computer-netwo
 https://www.geeksforgeeks.org/computer-networks/kerberos/
 and AI Overview 
 
+https://www.techtarget.com/searchsecurity/definition/X509-certificate
 x-509 AI Overview 
